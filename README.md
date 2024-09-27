@@ -4,4 +4,5 @@ A partir de este conjunto de datos, se ha realizado un análisis profundo que pe
 En resumen, este análisis proporciona una visión completa del funcionamiento del restaurante y permite identificar áreas clave para la mejora continua. La implementación de las recomendaciones derivadas de este análisis puede contribuir significativamente al crecimiento del negocio y a la satisfacción de los clientes.
 
 HERRAMIENTA UTILIZADA: 
-![image](https://github.com/user-attachments/assets/987480d7-c461-40b9-91bf-88c3adc1f2ec)
+![image](https://github.com/user-attachments/assets/639c8148-e9d6-4cd0-8cb5-1e6d1049574f)
+
